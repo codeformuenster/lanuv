@@ -1,54 +1,56 @@
-AABU
-BIEL
-BONN
-BORG
-BOTT
-CHOR
-DATT
-DDCS
-DMD2
-DUB2
-EIFE
-ELAN
-EVOG
-GELS
-HATT
-HUE2
-JACK
-JHNK
-KRHA
-LEV2
-LOER
-MSGE
-NETT
-NIED
-RAT2
-RODE
-ROTH
-SHW2
-SOES
-SOLI
-STYR
-UNNA
-VACW
-VBID
-VDOM
-VDOR
-VDUI
-VEAE
-VESN
-VGES
-VGLG
-VHAM
-VKCL
-VKTU
-VLEG
-VMGF
-VMGR
-VMS2
-VOBM
-VWEL
-WALS
-WAST
-WESE
-WULA
+
+Aachen, Wilhelmstraße:VACW
+Aachen-Burtscheid:AABU
+Bielefeld, Detmolder Straße:VBID
+Bielefeld-Ost:BIEL
+Bonn-Auerberg:BONN
+Borken-Gemen:BORG
+Bottrop-Welheim:BOTT
+Datteln-Hagem:DATT
+Dortmund, Brackeler Straße:VDOM
+Dortmund, Steinstraße:VDOR
+Dortmund-Eving:DMD2
+Duisburg, Kardinal-Galen-Straße:VDUI
+Duisburg-Bruckhausen:DUB2
+Duisburg-Walsum:WALS
+Düsseldorf, Corneliusstraße:DDCS
+Düsseldorf-Lörick:LOER
+Essen, Gladbecker Straße:VEAE
+Essen-Ost, Steeler Straße:VESN
+Essen-Schuir (LANUV):ELAN
+Essen-Vogelheim:EVOG
+Gelsenkirchen, Kurt-Schumacher-Straße:VGES
+Gelsenkirchen-Bismarck:GELS
+Gladbeck, Goethestraße:VGLG
+Hagen, Graf-von-Galen-Ring:VHAM
+Hattingen-Blankenstein:HATT
+Hürth:HUE2
+Jackerath:JACK
+Jüchen-Hochneukirch:JHNK
+Köln, Clevischer Ring:VKCL
+Köln, Turiner Straße:VKTU
+Köln-Chorweiler:CHOR
+Köln-Rodenkirchen:RODE
+Krefeld-Hafen:KRHA
+Leverkusen Gustav-Heinemann-Straße:VLEG
+Leverkusen-Manfort:LEV2
+Lünen-Niederaden:NIED
+Mönchengladbach, Düsseldorfer Straße:VMGR
+Mönchengladbach, Friedrich-Ebert-Straße:VMGF
+Mülheim-Styrum:STYR
+Münster, Weseler Straße:VMS2
+Münster-Geist:MSGE
+Netphen Rothaargebirge:ROTH
+Nettetal-Kaldenkirchen:NETT
+Oberhausen, Mülheimer Straße:VOBM
+Ratingen-Tiefenbroich:RAT2
+Schwerte:SHW2
+Simmerath Eifel:EIFE
+Soest-Ost:SOES
+Solingen-Wald:SOLI
+Unna-Königsborn:UNNA
+Warstein:WAST
+Wesel-Feldmark:WESE
+Wuppertal, Gathe:VWEL
+Wuppertal-Langerfeld:WULA
+
